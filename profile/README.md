@@ -171,7 +171,7 @@ console.log(results);
 
 Full documentation:
 
-https://docs.atomicmemory.ai
+https://docs.atomicstrata.ai
 
 ## Roadmap
 
